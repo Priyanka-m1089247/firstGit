@@ -4,7 +4,7 @@ package Assignments;
 		void Adisplay();
 	}
 	interface B{
-		void Bdisplay();
+		void B display();
 	}
 	
 	class AB implements A,B
