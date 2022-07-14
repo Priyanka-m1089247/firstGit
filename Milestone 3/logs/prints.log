@@ -1,0 +1,4 @@
+19:40:21.239 [main] INFO  com.utilities.baseClass - initialized driver
+19:40:24.666 [main] INFO  com.utilities.baseClass - clicked on lightings
+19:40:24.683 [main] INFO  com.utilities.baseClass - switched to chiledwindow
+19:40:26.528 [main] INFO  com.utilities.baseClass - TollFree number is validated

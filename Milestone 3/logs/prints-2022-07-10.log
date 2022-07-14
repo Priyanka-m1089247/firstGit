@@ -1,0 +1,7 @@
+19:40:05.228 [main] INFO  com.utilities.baseClass - initialized driver
+19:40:08.383 [main] INFO  com.utilities.baseClass - mouse hovered on Automotive
+19:40:10.088 [main] INFO  com.utilities.baseClass - clicked on carlights
+19:40:10.216 [main] INFO  com.utilities.baseClass - Philips Automotive is validated
+19:40:11.756 [main] INFO  com.utilities.baseClass - initialized driver
+19:40:15.834 [main] INFO  com.utilities.baseClass -  keys has sent as TV 
+19:40:19.841 [main] INFO  com.utilities.baseClass - Text TV matched with FirstElement 
